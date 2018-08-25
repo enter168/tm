@@ -79,15 +79,17 @@ function create_config( )
     enabled_plugins = {
     "banhammer",
 	"banhammer-fa",
-    "groupmanager",
-	"groupmanager-fa",
+    "groupmanager",	
+    "groupmanager-fa",
     "msg-checks",
     "plugins",
     "tools",
     "expiretime",
     "mute-time",
     "del",
-	"lock-fosh"
+     "myp",
+     "time",
+     "lock-fosh"
 	
  },
     sudo_users = {249708795},
